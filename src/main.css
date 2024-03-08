@@ -11,6 +11,11 @@ h1 {
 	margin: 2rem 0;
 }
 
+h2 {
+	text-align: center;
+	margin: 1.5rem 0;
+}
+
 .custom-form {
 	display: flex;
 	flex-direction: column;
